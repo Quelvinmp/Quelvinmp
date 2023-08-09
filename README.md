@@ -14,6 +14,7 @@
   Não tenho medo de me jogar de cabeça em algo. Um exemplo disso é o fato de eu estar aqui! Em 2021 me joguei na programação e nunca mais quero sair!</p>
 
   <br>
+  
   ### Linguagens, frameworks e bibliotecas:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
