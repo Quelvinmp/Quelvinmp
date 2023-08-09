@@ -15,7 +15,7 @@
 
   <br>
   
-  ### Linguagens, frameworks e bibliotecas:
+  ### Linguagens, Frameworks e Bibliotecas:
 
 ## Frontend
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
