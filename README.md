@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-  Quelvin Machado, 22 anos, Nova Friburgo - RJ
+  Quelvin Machado, 23 anos, Nova Friburgo - RJ
 <br>
     Desenvolvedor FullStack
 </h1>
@@ -55,11 +55,6 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Mobile
-Aprendendo Agora:
-<br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 
