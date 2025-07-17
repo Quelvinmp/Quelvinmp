@@ -1,16 +1,10 @@
-<div id="header" align="center">
+<div id="header">
   <h1>
-    Quelvin Machado, Backend Developer
-    <br>
-    Nova Friburgo - RJ, Brazil
+    Hi there, I'm Quelvin Machado, Backend Developer 🇧🇷🌎
   </h1>
 </div>
 
 ---
-
-## 👋 About me
-
-Welcome to my GitHub!
 
 I'm a backend developer specialized in PHP and Laravel, with strong experience in building internal APIs, third-party integrations, automations (RPA), and large-scale data processing.
 
